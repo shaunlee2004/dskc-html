@@ -1,121 +1,135 @@
 <site>
-  <preference key="OpenPageAction.recent" value="C:\Users\Hondo\sitebuilder\sites\dskc\links.html|C:\Users\Hondo\sitebuilder\sites\dskc\contactus.html|C:\Users\Hondo\sitebuilder\sites\dskc\instructors.html|C:\Users\Hondo\sitebuilder\sites\dskc\index.html|C:\Users\Hondo\sitebuilder\sites\dskc\events.html"/>
   <preference key="ImportAction.localPath" value="/"/>
-  <preference key="PictureElement.path" value="C:\Users\Hondo\Desktop"/>
   <preference key="FilestoreFactory.webSite" value="us.1.p4"/>
-  <preference key="PublishAction.localPath" value="/"/>
-  <preference key="PublishAction.remotePath" value=""/>
-  <preference key="PublishAction.time" value="1304800109868"/>
-  <preference key="NewPageAction.templateCategory" value="All"/>
+  <preference key="MediaElement.path" value="C:\Users\Hondo\sitebuilder\sites\dskc"/>
+  <preference key="PublishAction.time" value="1330743097641"/>
   <preference key="NewPageAction.template" value="Dusk - Indigo"/>
   <preference key="PublishAction.allFiles" value="0"/>
   <preference key="ImportAction.remotePath" value=""/>
+  <preference key="OpenPageAction.recent" value="C:\Users\Hondo\sitebuilder\sites\dskc\index.html|C:\Users\Hondo\sitebuilder\sites\dskc\links.html|C:\Users\Hondo\sitebuilder\sites\dskc\instructors.html|C:\Users\Hondo\sitebuilder\sites\dskc\contactus.html|C:\Users\Hondo\sitebuilder\sites\dskc\news.html"/>
+  <preference key="PictureElement.path" value="C:\Users\Hondo\sitebuilder\sites\dskc\sitebuilder\clipart\backgrounds\fullpage"/>
+  <preference key="LinkChooser.FileChooser.path" value="C:\Users\Hondo\sitebuilder\sites\dskc"/>
+  <preference key="PublishAction.localPath" value="/"/>
+  <preference key="PublishAction.remotePath" value=""/>
+  <preference key="NewPageAction.templateCategory" value="All"/>
   <asset id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif">
-    <published date="1294704117863" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742886604" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%VirtualLocalImageAsset:/sitebuilder/clipart/backgrounds/tile/generic_dusk_search_bar_background_tile.gif">
-    <published date="1286738972123" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742887446" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%LocalDirectoryAsset:/sitebuilder">
   </asset>
   <asset id="%LocalDirectoryAsset:/sitebuilder/images">
   </asset>
   <asset id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif">
-    <published date="1294704117863" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742886292" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%VirtualLocalImageAsset:/sitebuilder/clipart/bars/regular/horizontal/generic_dusk_footer.gif">
-    <published date="1286738972123" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742887181" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%VirtualLocalImageAsset:/sitebuilder/clipart/bars/regular/horizontal/generic_dusk_header.jpg">
-    <published date="1286738972138" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742887118" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%LocalDirectoryAsset:/">
   </asset>
   <asset id="%PageAssetImpl:/classes.html">
-    <published date="1304799994797" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799981000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-26106.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-26121.png"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/inactive.gif"/>
-    <refers-to id="%PageAssetImpl:/schedule.html"/>
-    <refers-to id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif"/>
+    <published date="1330742906135" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742898000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2009_08_10_014-246x149.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_header.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png"/>
+    <refers-to id="%PageAssetImpl:/instructors.html"/>
+    <refers-to id="%ImageAssetImpl:/images/2009_08_13_002.JPG"/>
+    <refers-to id="%PageAssetImpl:/classes.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-77363.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
+    <refers-to id="%PageAssetImpl:/schedule.html"/>
+    <refers-to id="%PageAssetImpl:/news.html"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/Baileys_CC-cropped.jpg"/>
     <refers-to id="%PageAssetImpl:/Photos.html"/>
-    <refers-to id="%ImageAssetImpl:/images/generic_dusk_footer.gif"/>
     <refers-to id="%PageAssetImpl:/events.html"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_footer.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/2009_08_13_002-254x124.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-77426.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-inactive-76261.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Baileys_CC-cropped-268x97.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png"/>
-    <refers-to id="%ImageAssetImpl:/images/generic_dusk_header.jpg"/>
     <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-26137.png"/>
-    <refers-to id="%PageAssetImpl:/index.html"/>
-    <refers-to id="%ImageAssetImpl:/images/2009_08_13_002.JPG"/>
-    <refers-to id="%PageAssetImpl:/instructors.html"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/active.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
-    <refers-to id="%PageAssetImpl:/classes.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-77442.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png"/>
+    <refers-to id="%PageAssetImpl:/DojoRules.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
-    <refers-to id="%ImageAssetImpl:/images/2009_08_10_014.JPG"/>
     <refers-to id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/mouseOver.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
-    <refers-to id="%PageAssetImpl:/contactus.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg"/>
     <refers-to id="%PageAssetImpl:/links.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-77363.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-77238.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/classes_html.png"/>
   </asset>
   <asset id="%PageAssetImpl:/contactus.html">
-    <published date="1304799994557" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799981000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-26106.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-26121.png"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/inactive.gif"/>
+    <published date="1330742904310" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742896000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png"/>
     <refers-to id="%PageAssetImpl:/schedule.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png"/>
+    <refers-to id="%PageAssetImpl:/news.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png"/>
     <refers-to id="%PageAssetImpl:/Photos.html"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_footer.gif"/>
     <refers-to id="%PageAssetImpl:/events.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-77426.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-inactive-76261.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png"/>
     <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_header.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-26137.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png"/>
     <refers-to id="%PageAssetImpl:/index.html"/>
     <refers-to id="%PageAssetImpl:/instructors.html"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/active.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png"/>
     <refers-to id="%PageAssetImpl:/classes.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-77442.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png"/>
+    <refers-to id="%PageAssetImpl:/DojoRules.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
     <refers-to id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
     <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png"/>
     <refers-to id="%PageAssetImpl:/links.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
@@ -123,43 +137,104 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-77238.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/contactus_html.png"/>
   </asset>
-  <asset id="%PageAssetImpl:/events.html">
-    <published date="1304799994387" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799981000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-26106.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-26121.png"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/inactive.gif"/>
+  <asset id="%PageAssetImpl:/DojoRules.html">
+    <published date="1330742906291" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742899000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png"/>
     <refers-to id="%PageAssetImpl:/schedule.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png"/>
+    <refers-to id="%PageAssetImpl:/news.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png"/>
     <refers-to id="%PageAssetImpl:/Photos.html"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_footer.gif"/>
     <refers-to id="%PageAssetImpl:/events.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-77426.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-inactive-76261.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_header.jpg"/>
     <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-26137.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif"/>
+    <refers-to id="%SoundAssetImpl:/Dojo_Kun_Audio.wav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png"/>
     <refers-to id="%PageAssetImpl:/index.html"/>
     <refers-to id="%PageAssetImpl:/instructors.html"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/active.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png"/>
     <refers-to id="%PageAssetImpl:/classes.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-77442.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png"/>
+    <refers-to id="%PageAssetImpl:/DojoRules.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
     <refers-to id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
     <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg"/>
+    <refers-to id="%PageAssetImpl:/links.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-77363.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-77238.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/DojoRules_html.png"/>
+  </asset>
+  <asset id="%SoundAssetImpl:/Dojo_Kun_Audio.wav">
+    <published date="1330742910238" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742899000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%PageAssetImpl:/events.html">
+    <published date="1330742903701" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742896000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png"/>
+    <refers-to id="%PageAssetImpl:/schedule.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png"/>
+    <refers-to id="%PageAssetImpl:/news.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_footer.gif"/>
+    <refers-to id="%PageAssetImpl:/events.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-77426.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-inactive-76261.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_header.jpg"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%PageAssetImpl:/instructors.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png"/>
+    <refers-to id="%PageAssetImpl:/classes.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png"/>
+    <refers-to id="%PageAssetImpl:/DojoRules.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
+    <refers-to id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg"/>
     <refers-to id="%PageAssetImpl:/links.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
@@ -170,174 +245,216 @@
   <asset id="%LocalDirectoryAsset:/images">
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_08_10_014.JPG">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1254693498000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742910378" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742899000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_08_13_002.JPG">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1254693496000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742908990" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742898000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_08_13_007.JPG">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1254693497000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742908537" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742897000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_08_13_011.JPG">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1254693494000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742907586" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742896000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_09_19_004.JPG">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1255825628000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742907508" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742896000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_09_19_005.JPG">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1255825629000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742907352" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742896000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_09_19_011.JPG">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1255825629000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742906369" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742895000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_09_19_023.JPG">
-    <published date="1266713654541" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1255825631000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742907274" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742896000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_09_19_024.JPG">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1255825637000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742906275" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742895000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_09_19_030.JPG">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1255825630000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742904980" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742894000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_09_19_031.JPG">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1255825633000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742905261" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742894000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/2009_09_19_035.JPG">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1254693497000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742905183" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742894000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/adapted_logo_tiger_2.png">
-    <published date="1286738977130" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1286738976000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742898616" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742887000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Baileys_CC-cropped.jpg">
+    <published date="1330742900690" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742889000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/bobleiter2007.jpg">
-    <published date="1266713654541" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1248915135000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742897726" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742887000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/chotinerkataweb.gif">
-    <published date="1266713654541" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1248915131000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742897040" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742886000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/dharuma-black.gif">
+    <published date="1330742896993" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742886000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/dharuma-dark.gif">
+    <published date="1330742896697" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742885000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/dharuma-embossed.gif">
+    <published date="1330742898319" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742887000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/dharuma-light.gif">
+    <published date="1330742896510" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742885000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/dharuma-white.gif">
+    <published date="1330742896463" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742885000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/dojo_logo_jpg.jpg">
-    <published date="1266713654541" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1248915130000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742896853" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742886000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/DSC_0040.JPG">
-    <published date="1282508292399" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1282508292000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742903311" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742892000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/DSC_00402.JPG">
-    <published date="1282508292044" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1282508291000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742903701" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742893000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/dskc_logo.jpg">
-    <published date="1266713654541" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1248915131000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742895152" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742884000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/elaineleiter2007.jpg">
-    <published date="1266713659783" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1248915133000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742895542" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742884000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/generic_dusk_footer.gif">
-    <published date="1266713816956" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1266713815000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742895667" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742885000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/generic_dusk_header.jpg">
-    <published date="1266713815849" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1266713814000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742894466" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742883000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif">
-    <published date="1266713816098" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1266713814000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742894575" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742883000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/Hoffman-Kibadachi.JPG">
-    <published date="1304799378392" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799363000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742903592" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742892000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/Hoffman-Lecture.JPG">
-    <published date="1304799378127" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799363000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742902734" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742892000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/Hoffman-Mae-Geri.JPG">
-    <published date="1304799377098" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799362000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742904310" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742893000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/InstructorSteveMajors.gif">
-    <published date="1266713654541" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1248915131000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742899380" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742888000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/Master Okazaki &amp; Majors Sensei - draft crop.bmp">
   </asset>
-  <asset id="%ImageAssetImpl:/images/MasterOkazaki-MajorsSensei-2.JPG">
-    <published date="1304799376754" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799362000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-  </asset>
   <asset id="%ImageAssetImpl:/images/MasterOkazaki-MajorsSensei.jpg">
-    <published date="1304799376302" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799361000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742900862" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742890000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/Pohle-Choku-zuki.JPG">
-    <published date="1304799375241" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799360000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742901845" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742891000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/Pohle-classatattention.JPG">
-    <published date="1304799374399" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799359000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742900831" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742890000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/images/Pohle-Lecture.jpg">
-    <published date="1304799374274" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799359000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742901860" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742891000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/site_logo_-_100x100_-_transparent.gif">
+    <published date="1330742894123" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742883000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif">
+    <published date="1330742893124" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742882000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/site_logo_-_150x150_-_transparent.gif">
+    <published date="1330742893187" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742882000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/site_logo_-_200x200_-_transparent.gif">
+    <published date="1330742892516" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742881000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%PageAssetImpl:/index.html">
-    <published date="1304799994167" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799980000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-26106.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-26121.png"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/inactive.gif"/>
+    <published date="1330743197126" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330743191000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png"/>
     <refers-to id="%PageAssetImpl:/schedule.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/MasterOkazaki-MajorsSensei-232x286.jpg"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png"/>
+    <refers-to id="%PageAssetImpl:/news.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png"/>
     <refers-to id="%PageAssetImpl:/Photos.html"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_footer.gif"/>
     <refers-to id="%PageAssetImpl:/events.html"/>
     <refers-to id="%ImageAssetImpl:/images/MasterOkazaki-MajorsSensei.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-77426.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-inactive-76261.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png"/>
     <refers-to id="%ImageAssetImpl:/images/site_logo_-_200x200_-_transparent.gif"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_header.jpg"/>
     <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-26137.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png"/>
     <refers-to id="%PageAssetImpl:/index.html"/>
     <refers-to id="%PageAssetImpl:/instructors.html"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/active.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png"/>
     <refers-to id="%PageAssetImpl:/classes.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-77442.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png"/>
+    <refers-to id="%PageAssetImpl:/DojoRules.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
     <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg"/>
     <refers-to id="%PageAssetImpl:/links.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
@@ -346,92 +463,104 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/index_html.png"/>
   </asset>
   <asset id="%PageAssetImpl:/instructors.html">
-    <published date="1304799993264" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799980000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-26106.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-26121.png"/>
+    <published date="1330742888444" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742882000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
     <refers-to id="%ImageAssetImpl:/images/chotinerkataweb.gif"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/inactive.gif"/>
-    <refers-to id="%PageAssetImpl:/schedule.html"/>
-    <refers-to id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png"/>
-    <refers-to id="%PageAssetImpl:/Photos.html"/>
-    <refers-to id="%ImageAssetImpl:/images/generic_dusk_footer.gif"/>
-    <refers-to id="%PageAssetImpl:/events.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png"/>
     <refers-to id="%ImageAssetImpl:/images/DSC_00402.JPG"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_header.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png"/>
+    <refers-to id="%PageAssetImpl:/instructors.html"/>
+    <refers-to id="%PageAssetImpl:/classes.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
+    <refers-to id="%ImageAssetImpl:/images/2009_09_19_035.JPG"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
+    <refers-to id="%ImageAssetImpl:/images/InstructorSteveMajors.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-77363.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2009_09_19_035-191x302.jpg"/>
+    <refers-to id="%PageAssetImpl:/schedule.html"/>
+    <refers-to id="%PageAssetImpl:/news.html"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%PageAssetImpl:/events.html"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_footer.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-77426.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-inactive-76261.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png"/>
-    <refers-to id="%ImageAssetImpl:/images/generic_dusk_header.jpg"/>
     <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-26137.png"/>
-    <refers-to id="%PageAssetImpl:/index.html"/>
-    <refers-to id="%PageAssetImpl:/instructors.html"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/active.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
-    <refers-to id="%PageAssetImpl:/classes.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-77442.png"/>
+    <refers-to id="%PageAssetImpl:/DojoRules.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
     <refers-to id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/mouseOver.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
-    <refers-to id="%PageAssetImpl:/contactus.html"/>
-    <refers-to id="%ImageAssetImpl:/images/2009_09_19_035.JPG"/>
-    <refers-to id="%ImageAssetImpl:/images/InstructorSteveMajors.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg"/>
     <refers-to id="%PageAssetImpl:/links.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-77363.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/DSC_00402-202x318.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-77238.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2009_09_19_035-191x302.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/instructors_html.png"/>
   </asset>
   <asset id="%PageAssetImpl:/links.html">
-    <published date="1304799993887" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799980000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-26106.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-26121.png"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/inactive.gif"/>
+    <published date="1330742888148" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742882000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png"/>
     <refers-to id="%PageAssetImpl:/schedule.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png"/>
+    <refers-to id="%PageAssetImpl:/news.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png"/>
     <refers-to id="%PageAssetImpl:/Photos.html"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_footer.gif"/>
     <refers-to id="%PageAssetImpl:/events.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-77426.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-inactive-76261.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_header.jpg"/>
     <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-26137.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png"/>
     <refers-to id="%PageAssetImpl:/index.html"/>
     <refers-to id="%PageAssetImpl:/instructors.html"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/active.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png"/>
     <refers-to id="%PageAssetImpl:/classes.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-77442.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png"/>
+    <refers-to id="%PageAssetImpl:/DojoRules.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
     <refers-to id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
     <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg"/>
     <refers-to id="%PageAssetImpl:/links.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
@@ -441,41 +570,100 @@
   </asset>
   <asset id="%LocalDirectoryAsset:/navigation_bars">
   </asset>
-  <asset id="%PageAssetImpl:/Photos.html">
-    <published date="1304800099369" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304800086000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-26106.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Hoffman-Lecture-389x258.jpg"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/inactive.gif"/>
+  <asset id="%PageAssetImpl:/news.html">
+    <published date="1330742887664" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742881000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/2009_08_13_011.JPG"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Pohle-classatattention-375x241.jpg"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-999x78.jpg"/>
-    <refers-to id="%ImageAssetImpl:/images/Hoffman-Lecture.JPG"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Pohle-Choku-zuki-382x246.jpg"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Hoffman-Kibadachi-286x437.jpg"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Hoffman-Mae-Geri-442x287.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_header.jpg"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-26137.png"/>
     <refers-to id="%PageAssetImpl:/index.html"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/active.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png"/>
     <refers-to id="%PageAssetImpl:/instructors.html"/>
     <refers-to id="%PageAssetImpl:/classes.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
+    <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-77363.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
+    <refers-to id="%PageAssetImpl:/schedule.html"/>
+    <refers-to id="%PageAssetImpl:/news.html"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif"/>
+    <refers-to id="%PageAssetImpl:/Photos.html"/>
+    <refers-to id="%PageAssetImpl:/events.html"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_footer.gif"/>
+    <refers-to id="%ImageAssetImpl:/images/2009_08_13_007.JPG"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-77426.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-inactive-76261.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2009_08_13_007-163x249.jpg"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/2009_08_13_011-96x242.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png"/>
+    <refers-to id="%PageAssetImpl:/DojoRules.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png"/>
+    <refers-to id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png"/>
+    <refers-to id="%PageAssetImpl:/links.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-77238.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/news_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/Photos.html">
+    <published date="1330742906400" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742899000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Hoffman-Lecture-389x258.jpg"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Pohle-classatattention-375x241.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-999x78.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Pohle-Choku-zuki-382x246.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/Hoffman-Lecture.JPG"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Hoffman-Kibadachi-286x437.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Hoffman-Mae-Geri-442x287.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png"/>
+    <refers-to id="%ImageAssetImpl:/images/generic_dusk_header.jpg"/>
+    <refers-to id="%PageAssetImpl:/index.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png"/>
+    <refers-to id="%PageAssetImpl:/instructors.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
+    <refers-to id="%PageAssetImpl:/classes.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/2009_09_19_030-362x186.jpg"/>
     <refers-to id="%PageAssetImpl:/contactus.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
     <refers-to id="%ImageAssetImpl:/images/Hoffman-Mae-Geri.JPG"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png"/>
     <refers-to id="%ImageAssetImpl:/images/2009_09_19_011.JPG"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-77363.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-26121.png"/>
     <refers-to id="%ImageAssetImpl:/images/Pohle-Lecture.jpg"/>
     <refers-to id="%PageAssetImpl:/schedule.html"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_search_bar_background_tile.gif"/>
+    <refers-to id="%PageAssetImpl:/news.html"/>
     <refers-to id="%ImageAssetImpl:/images/Pohle-Choku-zuki.JPG"/>
     <refers-to id="%PageAssetImpl:/Photos.html"/>
     <refers-to id="%ImageAssetImpl:/images/generic_dusk_footer.gif"/>
@@ -487,15 +675,16 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/2009_09_19_011-402x183.jpg"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png"/>
     <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/Pohle-Lecture-346x524.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-77442.png"/>
+    <refers-to id="%PageAssetImpl:/DojoRules.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png"/>
-    <refers-to id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif"/>
     <refers-to id="%ImageAssetImpl:/images/2009_09_19_031.JPG"/>
+    <refers-to id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif"/>
     <refers-to id="%ImageAssetImpl:/images/Pohle-classatattention.JPG"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/mouseOver.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png"/>
     <refers-to id="%ImageAssetImpl:/images/2009_09_19_030.JPG"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png"/>
@@ -504,41 +693,47 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Photos_html.png"/>
   </asset>
   <asset id="%PageAssetImpl:/schedule.html">
-    <published date="1304799992593" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799979000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-26106.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-26121.png"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/inactive.gif"/>
+    <published date="1330742887649" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742884000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png"/>
     <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/bars/regular/horizontal/generic_dusk_header.jpg"/>
     <refers-to id="%PageAssetImpl:/schedule.html"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif"/>
     <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/backgrounds/tile/generic_dusk_search_bar_background_tile.gif"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png"/>
+    <refers-to id="%PageAssetImpl:/news.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png"/>
     <refers-to id="%PageAssetImpl:/Photos.html"/>
     <refers-to id="%PageAssetImpl:/events.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-77426.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-inactive-76261.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png"/>
     <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-26137.png"/>
+    <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png"/>
     <refers-to id="%PageAssetImpl:/index.html"/>
     <refers-to id="%PageAssetImpl:/instructors.html"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/active.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png"/>
     <refers-to id="%PageAssetImpl:/classes.html"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-77442.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png"/>
+    <refers-to id="%PageAssetImpl:/DojoRules.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
     <refers-to id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif"/>
-    <refers-to id="%RemappedImageAsset:/sitebuilder/clipart/buttons/sets/splat/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
     <refers-to id="%PageAssetImpl:/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg"/>
     <refers-to id="%VirtualLocalImageAsset:/sitebuilder/clipart/bars/regular/horizontal/generic_dusk_footer.gif"/>
     <refers-to id="%PageAssetImpl:/links.html"/>
@@ -547,153 +742,181 @@
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-77238.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/schedule_html.png"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/2009_08_10_014-246x149.jpg">
-    <published date="1266713816379" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1266713814000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-  </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/2009_08_13_002-254x124.jpg">
-    <published date="1266713815272" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1266713813000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742889006" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742878000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2009_08_13_007-163x249.jpg">
+    <published date="1330742888725" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742878000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/2009_08_13_011-96x242.jpg">
+    <published date="1330742888444" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742877000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/2009_09_19_011-402x183.jpg">
-    <published date="1266713814850" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1266713813000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742888491" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742877000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/2009_09_19_030-362x186.jpg">
-    <published date="1266713814632" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1266713813000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742889365" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742878000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/2009_09_19_031-331x197.jpg">
-    <published date="1266713814726" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1266713813000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742888148" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742877000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/2009_09_19_035-191x302.jpg">
-    <published date="1266713814289" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1266713812000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742887961" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742876000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Baileys_CC-cropped-268x97.jpg">
+    <published date="1330742887649" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742877000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/DSC_00402-202x318.jpg">
-    <published date="1282508290717" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1282508290000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742887181" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742876000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-998x78.jpg">
-    <published date="1304799127701" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799113000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742885090" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742874000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/generic_dusk_header-999x78.jpg">
-    <published date="1304799127748" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799113000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742884950" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742874000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/Hoffman-Kibadachi-286x437.jpg">
-    <published date="1304799371778" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799357000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742888507" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742877000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/Hoffman-Lecture-389x258.jpg">
-    <published date="1304799371419" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799356000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742886604" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742875000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/Hoffman-Mae-Geri-442x287.jpg">
-    <published date="1304799371560" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799357000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742886292" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742875000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/MasterOkazaki-MajorsSensei-232x286.jpg">
-    <published date="1304799371700" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799357000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742887118" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742876000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-77238.png">
-    <published date="1304799989801" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799975000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742885231" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742874000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png">
-    <published date="1304799991408" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799976000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742883811" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742873000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png">
-    <published date="1304799990581" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799976000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742883421" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742872000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png">
-    <published date="1304799990019" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799975000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742883905" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742873000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-77363.png">
-    <published date="1304799988865" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799974000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742885652" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742874000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png">
-    <published date="1304799988662" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799974000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742883047" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742872000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-77426.png">
-    <published date="1304799989801" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799975000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742883468" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742872000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png">
-    <published date="1304799987258" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799972000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-  </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-77442.png">
-    <published date="1304799988568" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799973000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742882766" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742872000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png">
-    <published date="1304799988022" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799973000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742882875" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742871000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png">
-    <published date="1304799988880" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799974000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742883686" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742872000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png">
-    <published date="1304799989723" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799975000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742880988" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742870000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png">
-    <published date="1304799987398" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799972000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742880410" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742869000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png">
-    <published date="1304799988522" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799974000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742880270" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742868000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png">
-    <published date="1304799989770" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799975000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742879724" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742868000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png">
-    <published date="1304799990019" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799975000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742881768" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742871000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-6-inactive-76261.png">
-    <published date="1304799989083" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799974000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742881736" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742870000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png">
-    <published date="1304799989099" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799974000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742877400" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742866000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-26121.png">
-    <published date="1304799988724" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799974000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png">
+    <published date="1330742879755" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742868000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-26106.png">
-    <published date="1304799990066" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799975000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png">
+    <published date="1330742878975" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742868000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
-  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-26137.png">
-    <published date="1304799987118" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799972000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png">
+    <published date="1330742883390" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742872000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png">
+    <published date="1330742878616" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742867000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png">
+    <published date="1330742882329" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742871000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png">
+    <published date="1330742881596" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742870000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png">
+    <published date="1330742880738" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742869000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png">
+    <published date="1330742880442" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742869000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png">
+    <published date="1330742879818" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742869000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/Pohle-Choku-zuki-382x246.jpg">
-    <published date="1304799371341" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799356000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742887446" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742876000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/Pohle-classatattention-375x241.jpg">
-    <published date="1304799371700" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799357000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742886151" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742875000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%ImageAssetImpl:/sitebuilder/images/Pohle-Lecture-346x524.jpg">
-    <published date="1304799372059" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799357000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <published date="1330742887664" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742876000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
   </asset>
   <asset id="%LocalDirectoryAsset:/sitebuilder/images/thumbnails">
   </asset>
@@ -701,54 +924,52 @@
   </asset>
   <asset id="%LocalDirectoryAsset:/sitebuilder/save">
   </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/scripts">
+  </asset>
   <asset id="%NavbarAsset:/navigation_bars/navbar.nav">
-    <published date="1304799994257" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <serverLastModified date="1304799979000" yahooId="swmajors123/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-26106.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-26121.png"/>
+    <published date="1330742892578" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1330742881000" yahooId="shaunctrlee/us.1.p4" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-active-03602.png"/>
     <refers-to id="%PageAssetImpl:/sitebuilder/preview/Photos.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-active-77473.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/splat/active.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/splat/mouseOver.gif"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-active-62723.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/themes/generic_dusk_inactive_menu_button.gif"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/news.html"/>
     <refers-to id="%PageAssetImpl:/sitebuilder/preview/index.html"/>
     <refers-to id="%PageAssetImpl:/sitebuilder/preview/links.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-active-77426.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-03618.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-inactive-76261.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-inactive-03586.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-active-76276.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-inactive-77410.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-7-mouseOver-26137.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-mouseOver-62733.png"/>
     <refers-to id="%PageAssetImpl:/sitebuilder/preview/contactus.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-active-60165.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-6-mouseOver-76292.png"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/sets/splat/inactive.gif"/>
-    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-3-mouseOver-77442.png"/>
+    <refers-to id="%PageAssetImpl:/sitebuilder/preview/DojoRules.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-mouseOver-77488.png"/>
     <refers-to id="%PageAssetImpl:/sitebuilder/preview/schedule.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-inactive-77129.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-active-77301.png"/>
     <refers-to id="%PageAssetImpl:/sitebuilder/preview/events.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-mouseOver-60165.png"/>
     <refers-to id="%PageAssetImpl:/sitebuilder/preview/classes.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-8-inactive-60149.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-inactive-77348.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-4-inactive-77457.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-inactive-34097.png"/>
     <refers-to id="%PageAssetImpl:/sitebuilder/preview/instructors.html"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-1-inactive-77285.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-active-34112.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-9-inactive-62714.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-2-active-77363.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-5-mouseOver-34128.png"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/navbar-0-active-77238.png"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/preview/sitebuilder/clipart/buttons/themes/generic_dusk_hover_menu_button.gif"/>
     <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
     <refers-to id="%NavbarAsset:/navigation_bars/navbar.nav"/>
     <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/navbar.png"/>
-  </asset>
-  <asset id="%ImageAssetImpl:/images/site_logo_-_150x150.bmp">
-  </asset>
-  <asset id="%ImageAssetImpl:/images/site_logo_-_150x150_-_transparent.gif">
-  </asset>
-  <asset id="%ImageAssetImpl:/images/site_logo_-_100x100_-_transparent.gif">
-  </asset>
-  <asset id="%ImageAssetImpl:/images/site_logo_-_125x125_-_transparent.gif">
-  </asset>
-  <asset id="%ImageAssetImpl:/images/site_logo_-_200x200_-_transparent.gif">
   </asset>
 </site>
